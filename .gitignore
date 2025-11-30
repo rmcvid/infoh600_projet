@@ -1,1 +1,4 @@
 challenge_set.json
+data_json/
+data_parquet/
+data_tracks_parquet/
