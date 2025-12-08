@@ -2,3 +2,6 @@ challenge_set.json
 data_json/
 data_parquet/
 data_tracks_parquet/
+temp_chunks/
+track_vectors/
+tracks_grouped/
